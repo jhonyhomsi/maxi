@@ -1,0 +1,10 @@
+* {
+    padding: 30px;
+    margin: 30px;
+    justify-content: center;
+}
+
+.input {
+    padding: 5px;
+    margin: 2px;
+}
